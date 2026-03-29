@@ -2,7 +2,7 @@
 "First year engineering student passionate about programming, problem-solving and building meaningful projects."
 
 ### 🎓My Academic Profile
-**Branch: [COMPUTER SCIENCE ENGINEERING , CORE]**
+**Branch: [Computer science engineering , CORE]**
 
 **Year: [1st Year / Class of 2025]**
 
