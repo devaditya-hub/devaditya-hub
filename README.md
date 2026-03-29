@@ -1,4 +1,5 @@
-## Hi there, I'm [ADITYA DEV] 👋
+## Hi there👋 , I'm [ADITYA DEV] 
+"First year engineering student passionate about programming, problem-solving and building meaningful projects."
 
 ### 🎓My Academic Profile
 **Branch:** [COMPUTER SCIENCE ENGINEERING , CORE]
@@ -6,7 +7,7 @@
 **skills:** [ python & fundamentals in AI & ML]
 
 ### 🎯 My Goal
-I hope to learn how to build scalable full-stack applications and contribute to meaningful open-source projects this year.
+I hope to learn how to build scalable full-stack applications and contribute to meaningful open-source projects this year along with striving to build expertise in Data analysis.
 
 <!--
 **devaditya-hub/devaditya-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
