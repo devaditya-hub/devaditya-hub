@@ -3,7 +3,9 @@
 
 ### 🎓My Academic Profile
 **Branch: [COMPUTER SCIENCE ENGINEERING , CORE]**
+
 **Year: [1st Year / Class of 2025]**
+
 **skills: [ python & fundamentals in AI & ML]**
 
 ### 🎯 My Goal
