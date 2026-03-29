@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm [ADITYA DEV] 👋
+
+### 🎓My Academic Profile
+**Branch:** [COMPUTER SCIENCE ENGINEERING , CORE]
+**Year:** [1st Year / Class of 2025]
+**skills:** [ python & fundamentals in AI & ML]
+
+### 🎯 My Goal
+I hope to learn how to build scalable full-stack applications and contribute to meaningful open-source projects this year.
 
 <!--
 **devaditya-hub/devaditya-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
